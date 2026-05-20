@@ -13,8 +13,6 @@ date: 06-01-2026
 This is a small Quarto website that we will use during the tutorial:
 
 > **Introduction to Quarto for Research Projects**. [Tutorial Website](https://pythonhealthdatascience.github.io/quarto-tutorial/).
->
-> [![](images/intro_to_quarto.png)](https://pythonhealthdatascience.github.io/quarto-tutorial/)
 
 By the end of the tutorial you will have:
 
